@@ -1,62 +1,74 @@
-🟢 FPP Shooter – UE5 Prototype Game  
-This is my first **First-Person Shooter** prototype made with Unreal Engine 5, set in a military container-style map. Built entirely using Blueprints!
+<h1 align="center">🎯 FPP Shooter – Unreal Engine 5 Prototype</h1>
 
-Players must aim and shoot down targets to score points, while enjoying immersive visuals and sounds in a well-structured gameplay loop.
+<p align="center">
+  My first First-Person Shooter game built with <strong>Unreal Engine 5</strong> using 100% Blueprints.<br>
+  Shoot targets, score points, and enjoy immersive gameplay in a stylized army container map.
+</p>
 
----
+<p align="center">
+  <a href="https://youtu.be/i4vL4dlcDqA"><img src="https://img.youtube.com/vi/i4vL4dlcDqA/0.jpg" alt="Watch on YouTube" width="640"></a>
+</p>
 
-🎮 Gameplay Preview  
-🎥 Watch demo: [![Watch on YouTube](https://img.youtube.com/vi/i4vL4dlcDqA/0.jpg)](https://youtu.be/i4vL4dlcDqA)  
-📢 Tweet post: [https://x.com/NitinDave77/status/1945322943782797334](https://x.com/NitinDave77/status/1945322943782797334)
-
----
-
-📦 Download the Game  
-🕹️ Try the prototype here:  
-👉 [Download from Google Drive](https://drive.google.com/drive/folders/1JAYR6e_Uw-0A6Kk46FNtbfnJh35i4xVE?usp=sharing)
-
-> Make sure to extract the ZIP before running the `.exe` file.
+<p align="center">
+  <a href="https://x.com/NitinDave77/status/1945322943782797334">📢 Check out the announcement on Twitter</a>
+</p>
 
 ---
 
-🧩 Features
-- First-person camera and fluid movement  
-- Shooting system with hit detection  
-- Scoring system tied to target hits  
-- Start menu with **Start**, **Restart**, and **Quit** buttons  
-- Win/loss conditions for game progression  
-- Sound effects and background music for immersive experience  
-- Modular level layout using military container assets  
+## 📦 Download the Game
+
+👉 [Download from Google Drive](https://drive.google.com/drive/folders/1JAYR6e_Uw-0A6Kk46FNtbfnJh35i4xVE?usp=sharing)  
+
+> 🗂️ Unzip the folder, then run the `.exe` file inside to play!
 
 ---
 
-🎮 Controls
-- **WASD** – Move  
-- **Mouse** – Look/Aim  
-- **Left Click** – Shoot  
-- **Spacebar** – Jump  
+## 🎮 Features
+
+- 🎯 First-person camera & smooth movement  
+- 🔫 Functional shooting system with hit detection  
+- 🧠 Target-based scoring system  
+- 🧾 Start menu with **Start**, **Restart**, and **Quit** buttons  
+- 🏁 Win/Loss conditions with simple end screen  
+- 🔊 Sound effects + background music  
+- 🗺️ Stylized environment using modular container assets  
 
 ---
 
-💡 Possible Future Enhancements
-- Add ammo and reload mechanics  
-- Leaderboard or high-score tracking  
-- Target difficulty levels or moving targets  
-- More varied weapon types  
+## 🕹️ Controls
+
+| Action       | Key         |
+|--------------|-------------|
+| Move         | `W` `A` `S` `D` |
+| Look/Aim     | Mouse       |
+| Shoot        | Left Click  |
+| Jump         | Spacebar    |
 
 ---
 
-🛠 Built With
-- Unreal Engine 5  
-- 100% Blueprints  
-- Free assets from Unreal Fab & Marketplace  
+## 🚀 Built With
+
+- 🎮 Unreal Engine 5  
+- 🧩 100% Blueprints (No C++)  
+- 🛠️ Free Assets from Unreal Fab / Marketplace  
 
 ---
 
-📬 Feedback Welcome!  
-Tried it out? I'd love to hear what you think or how it can be improved.  
-🗨️ Drop your thoughts on [Twitter](https://x.com/NitinDave77)
+## 🧠 Future Upgrades
+
+- 🔁 Reloading & ammo system  
+- 🧠 Smarter/moving targets  
+- 🏆 High-score leaderboard  
+- 💥 Weapon variety  
+- 🎨 Visual polish & UI enhancements  
 
 ---
 
-🚀 Thanks for playing!
+## 📬 Feedback & Connect
+
+Got feedback, bugs, or ideas? I’d love to hear them!  
+📩 Reach out on [Twitter](https://x.com/NitinDave77)
+
+---
+
+<p align="center"><b>🎉 Thanks for checking out my first FPS prototype — more to come!</b></p>
