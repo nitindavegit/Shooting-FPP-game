@@ -1,4 +1,4 @@
-<h1 align="center">🎯 FPP Shooter – Unreal Engine 5 Prototype</h1>
+<h1 align="center">🎯 FPP Shooter</h1>
 
 <p align="center">
   My first First-Person Shooter game built with <strong>Unreal Engine 5</strong> using 100% Blueprints.<br>
